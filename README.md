@@ -135,55 +135,79 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>CyberShieldPro v1.3</h3>
-      <p align="center">
-        <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/cybershieldpro-v1.3" width="100%" alt="CyberShieldPro Preview">
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td width="50" valign="top" style="border: none;">
+            <img src="assets/portrait.svg" width="45" alt="Avatar">
+          </td>
+          <td valign="top" style="border: none;">
+            <h3 style="margin-top: 0;">
+              <img src="https://img.icons8.com/fluency/48/shield.png" width="24" align="absmiddle"> 
+              CyberShieldPro v1.3
+            </h3>
+            <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
+              <img src="https://socialify.git.ci/hackerX-Sam/cybershieldpro-v1.3/image?font=Inter&language=1&name=1&pattern=Circuit%20Board&theme=Dark" width="100%" style="border-radius: 8px;">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="50%">
-      <h3>ObserveX</h3>
-      <p align="center">
-        <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/observeX---realtime-desktop-monitoring-system" width="100%" alt="ObserveX Preview">
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Monitoring-FF4F00?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td width="50" valign="top" style="border: none;">
+            <img src="assets/portrait.svg" width="45" alt="Avatar">
+          </td>
+          <td valign="top" style="border: none;">
+            <h3 style="margin-top: 0;">
+              <img src="https://img.icons8.com/fluency/48/monitor.png" width="24" align="absmiddle"> 
+              ObserveX
+            </h3>
+            <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
+              <img src="https://socialify.git.ci/hackerX-Sam/observeX---realtime-desktop-monitoring-system/image?font=Inter&language=1&name=1&pattern=Circuit%20Board&theme=Dark" width="100%" style="border-radius: 8px;">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>Eventra</h3>
-      <p align="center">
-        <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Streaming-E0234E?style=flat-square&logo=apachekafka&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td width="50" valign="top" style="border: none;">
+            <img src="assets/portrait.svg" width="45" alt="Avatar">
+          </td>
+          <td valign="top" style="border: none;">
+            <h3 style="margin-top: 0;">
+              <img src="https://img.icons8.com/fluency/48/data-network.png" width="24" align="absmiddle"> 
+              Eventra
+            </h3>
+            <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
+              <img src="https://socialify.git.ci/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-/image?font=Inter&language=1&name=1&pattern=Circuit%20Board&theme=Dark" width="100%" style="border-radius: 8px;">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="50%">
-      <h3>Savya Prajapati</h3>
-      <p align="center">
-        <a href="https://github.com/hackerX-Sam/savyaprajapati">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/savyaprajapati" width="100%" alt="Savya Prajapati Preview">
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td width="50" valign="top" style="border: none;">
+            <img src="assets/portrait.svg" width="45" alt="Avatar">
+          </td>
+          <td valign="top" style="border: none;">
+            <h3 style="margin-top: 0;">
+              <img src="https://img.icons8.com/fluency/48/web-design.png" width="24" align="absmiddle"> 
+              Savya Prajapati
+            </h3>
+            <a href="https://github.com/hackerX-Sam/savyaprajapati">
+              <img src="https://socialify.git.ci/hackerX-Sam/savyaprajapati/image?font=Inter&language=1&name=1&pattern=Circuit%20Board&theme=Dark" width="100%" style="border-radius: 8px;">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
