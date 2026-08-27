@@ -86,7 +86,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 <img height="75" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
 <img height="75" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
 <img height="75" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
-<img height="75" src="assets/antigravity.svg" alt="Antigravity" />
+<img height="65" src="assets/antigravity.svg" alt="Antigravity" />
 
 ---
 
