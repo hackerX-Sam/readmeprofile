@@ -180,8 +180,8 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
     <td align="center" width="50%">
       <h3>𝔼𝕍𝔼ℕ𝕋ℝ𝔸</h3>
       <p align="center">
-        <a href="https://github.com/hackerX-Sam/𝔼𝕍𝔼ℕ𝕋ℝ𝔸-real-time-event-streaming-monitoring-platform-">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/𝔼𝕍𝔼ℕ𝕋ℝ𝔸-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
+        <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
         </a>
       </p>
       <p align="center">
