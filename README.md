@@ -41,7 +41,9 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 ## `~/` toolbox
 
 <!-- Add or remove skills by changing the icons listed after ?i= -->
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,git,github,docker,vscode,html,css&perline=11" alt="tech stack">
+<br><br>
+<img src="https://img.shields.io/badge/Built_With-Antigravity_IDE-1A73E8?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity">
 
 </div>
 
