@@ -136,18 +136,24 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
-        <img src="assets/glass_card_1.svg" width="100%" alt="CyberShieldPro">
-      </a>
+      <h3>CyberShieldPro v1.3</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/cybershieldpro-v1.3" width="100%" alt="CyberShieldPro Preview">
+        </a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
-        <img src="assets/glass_card_2.svg" width="100%" alt="ObserveX">
-      </a>
+      <h3>ObserveX</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/observeX---realtime-desktop-monitoring-system" width="100%" alt="ObserveX Preview">
+        </a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Monitoring-FF4F00?style=flat-square&logo=databricks&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -156,18 +162,24 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
-        <img src="assets/glass_card_3.svg" width="100%" alt="Eventra">
-      </a>
+      <h3>Eventra</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
+        </a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Streaming-E0234E?style=flat-square&logo=apachekafka&logoColor=white" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/hackerX-Sam/savyaprajapati">
-        <img src="assets/glass_card_4.svg" width="100%" alt="Savya Prajapati">
-      </a>
+      <h3>Savya Prajapati</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/savyaprajapati">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/savyaprajapati" width="100%" alt="Savya Prajapati Preview">
+        </a>
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
