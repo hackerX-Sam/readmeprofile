@@ -95,7 +95,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 ## `~/` ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝕀𝕆ℕ ℂ𝔸𝕃𝔼ℕ𝔻𝔸ℝ
 
 <!-- 3D isometric calendar, generated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar" onerror="this.style.display='none'">
+<img src="assets/metrics.isocalendar.svg?v=1" width="90%" alt="3D isometric contribution calendar" onerror="this.style.display='none'">
 
 <br><br>
 
