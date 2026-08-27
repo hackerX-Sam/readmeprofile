@@ -127,46 +127,50 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <div align="center">
 
-## `~/` selected work
+## 🚀 `~/` featured masterpieces
 
-<!-- Using github-readme-stats repository cards as a drop-in replacement -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
 <table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/hackerX-Sam/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackerX-Sam&repo=PROJECT_1&theme=radical" width="420" alt="Project 1">
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/hackerX-Sam/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackerX-Sam&repo=PROJECT_2&theme=radical" width="420" alt="Project 2">
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <a href="https://github.com/hackerX-Sam/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackerX-Sam&repo=PROJECT_3&theme=radical" width="420" alt="Project 3">
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/hackerX-Sam/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hackerX-Sam&repo=PROJECT_4&theme=radical" width="420" alt="Project 4">
-  </a>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Load Balancer Simulator</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/load-balancer-simulator">
+          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Server">
+        </a>
+      </p>
+      <p align="center">
+        A high-performance backend system built to simulate and visualize advanced load balancing algorithms under massive traffic.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Hacker Profile README</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/readmeprofile">
+          <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyhgP/giphy.gif" width="80" alt="Hacker">
+        </a>
+      </p>
+      <p align="center">
+        An extraordinary, fully-customized GitHub profile README featuring dynamic stats, automated snake generation, and premium dark mode aesthetics.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
-<sub>
+<br>
 
-| project | live | stack |
-|---|---|---|
-| **[Project 1](https://github.com/hackerX-Sam/PROJECT_1)** | [project1.vercel.app](https://project1.vercel.app) | `JavaScript` `React` |
-| **[Project 2](https://github.com/hackerX-Sam/PROJECT_2)** | [project2.vercel.app](https://project2.vercel.app) | `Node.js` |
-| **[Project 3](https://github.com/hackerX-Sam/PROJECT_3)** | [project3.vercel.app](https://project3.vercel.app) | `Next.js` `TypeScript` |
-| **[Project 4](https://github.com/hackerX-Sam/PROJECT_4)** | [project4.vercel.app](https://project4.vercel.app) | `Python` |
-
-</sub>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
