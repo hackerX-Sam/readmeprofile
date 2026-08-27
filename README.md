@@ -116,12 +116,8 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub statistics">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="most used languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" alt="most used languages">
 </p>
 
 </div>
