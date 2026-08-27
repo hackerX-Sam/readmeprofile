@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="55" fill="#242938"/>
+  <!-- Rocket flame -->
+  <path d="M 128 210 Q 110 240 128 250 Q 146 240 128 210 Z" fill="#FF5722"/>
+  <path d="M 128 210 Q 120 230 128 240 Q 136 230 128 210 Z" fill="#FFC107"/>
+  <!-- Rocket body -->
+  <path d="M 128 30 C 160 30 170 80 170 140 L 170 190 L 86 190 L 86 140 C 86 80 96 30 128 30 Z" fill="#E0E0E0"/>
+  <!-- Rocket fins -->
+  <path d="M 86 140 L 50 190 L 86 190 Z" fill="#9E9E9E"/>
+  <path d="M 170 140 L 206 190 L 170 190 Z" fill="#9E9E9E"/>
+  <!-- Rocket window -->
+  <circle cx="128" cy="110" r="25" fill="#2196F3"/>
+  <circle cx="128" cy="110" r="15" fill="#81D4FA"/>
+</svg>
