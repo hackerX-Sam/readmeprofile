@@ -116,8 +116,9 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=tokyonight&hide_border=true" alt="most used languages">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=tokyonight&hide_border=true" alt="most used languages">
 </p>
 
 </div>
