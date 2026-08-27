@@ -136,33 +136,65 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>⚙️ Load Balancer Simulator</h3>
+      <h3>🛡️ CyberShieldPro v1.3</h3>
       <p align="center">
-        <a href="https://github.com/hackerX-Sam/load-balancer-simulator">
-          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Server">
+        <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
+          <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyhgP/giphy.gif" width="80" alt="Cyber">
         </a>
       </p>
       <p align="center">
-        A high-performance backend system built to simulate and visualize advanced load balancing algorithms under massive traffic.
+        An advanced cybersecurity and network protection system designed to detect and mitigate threats.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🎨 Hacker Profile README</h3>
+      <h3>👁️ ObserveX</h3>
       <p align="center">
-        <a href="https://github.com/hackerX-Sam/readmeprofile">
-          <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyhgP/giphy.gif" width="80" alt="Hacker">
+        <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
+          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Monitor">
         </a>
       </p>
       <p align="center">
-        An extraordinary, fully-customized GitHub profile README featuring dynamic stats, automated snake generation, and premium dark mode aesthetics.
+        A real-time desktop monitoring and telemetry system for tracking device performance and system activity.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Monitoring-FF4F00?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌊 Eventra</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
+          <img src="https://media.giphy.com/media/3oKIPnAiaCRIG2nECc/giphy.gif" width="80" alt="Stream">
+        </a>
+      </p>
+      <p align="center">
+        A high-throughput real-time event streaming and monitoring platform built for massive scale.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Streaming-E0234E?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>✨ Savya Prajapati</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/savyaprajapati">
+          <img src="https://media.giphy.com/media/W3r6K1X3sRk39zR60N/giphy.gif" width="80" alt="Portfolio">
+        </a>
+      </p>
+      <p align="center">
+        A stunning, interactive personal portfolio and web experience showcasing projects and skills.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
     </td>
   </tr>
