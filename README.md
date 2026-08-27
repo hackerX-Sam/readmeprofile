@@ -116,9 +116,21 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hackerX-Sam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies">
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
   &nbsp;
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=tokyonight&hide_border=true" alt="most used languages">
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerX-Sam&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=hackerX-Sam&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </p>
 
 </div>
