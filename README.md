@@ -21,7 +21,7 @@
 
 ---
 
-## `~/` 𝗪𝗛𝗢 𝗔𝗠 𝗜
+## `~/` 𝕎ℍ𝕆 𝔸𝕄 𝕀
 
 ```console
 $ cat about.txt
@@ -36,9 +36,9 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <br>
 
-### 🚀 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
+### 🚀 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
 
-**𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦:**
+**ℙℝ𝕆𝔾ℝ𝔸𝕄𝕄𝕀ℕ𝔾 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊:**
 <br>
 <img height="75" src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
 <img height="75" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
@@ -51,7 +51,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 ---
 
-**𝗙𝗥𝗢𝗡𝗧𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧:**
+**𝔽ℝ𝕆ℕ𝕋𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝕄𝔼ℕ𝕋:**
 <br>
 <img height="75" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
 <img height="75" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
@@ -63,7 +63,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 ---
 
-**𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧:**
+**𝔹𝔸ℂ𝕂𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝕄𝔼ℕ𝕋:**
 <br>
 <img height="75" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
 <img height="75" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" />
@@ -72,14 +72,14 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 ---
 
-**𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦:**
+**𝔻𝔸𝕋𝔸𝔹𝔸𝕊𝔼𝕊:**
 <br>
 <img height="75" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 <img height="75" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
 
 ---
 
-**𝗧𝗢𝗢𝗟𝗦 & 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠𝗦:**
+**𝕋𝕆𝕆𝕃𝕊 & ℙ𝕃𝔸𝕋𝔽𝕆ℝ𝕄𝕊:**
 <br>
 <img height="75" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
 <img height="75" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
@@ -92,7 +92,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <div align="center">
 
-## `~/` 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 𝗖𝗔𝗟𝗘𝗡𝗗𝗔𝗥
+## `~/` ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝕀𝕆ℕ ℂ𝔸𝕃𝔼ℕ𝔻𝔸ℝ
 
 <!-- 3D isometric calendar, generated every 6h by .github/workflows/metrics.yml -->
 <img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar" onerror="this.style.display='none'">
@@ -112,7 +112,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <div align="center">
 
-## `~/` 𝗧𝗛𝗘 𝗡𝗨𝗠𝗕𝗘𝗥𝗦
+## `~/` 𝕋ℍ𝔼 ℕ𝕌𝕄𝔹𝔼ℝ𝕊
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
 <p align="center">
@@ -137,7 +137,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <div align="center">
 
-## 🚀 `~/` 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗠𝗔𝗦𝗧𝗘𝗥𝗣𝗜𝗘𝗖𝗘𝗦
+## 🚀 `~/` 𝔽𝔼𝔸𝕋𝕌ℝ𝔼𝔻 𝕄𝔸𝕊𝕋𝔼ℝℙ𝕀𝔼ℂ𝔼𝕊
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -146,7 +146,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>𝗖𝗬𝗕𝗘𝗥𝗦𝗛𝗜𝗘𝗟𝗗𝗣𝗥𝗢 𝗩1.3</h3>
+      <h3>ℂ𝕐𝔹𝔼ℝ𝕊ℍ𝕀𝔼𝕃𝔻ℙℝ𝕆 𝕍1.3</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
           <img src="https://opengraph.githubassets.com/1/hackerX-Sam/cybershieldpro-v1.3" width="100%" alt="CyberShieldPro Preview">
@@ -161,7 +161,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>𝗢𝗕𝗦𝗘𝗥𝗩𝗘𝗫</h3>
+      <h3>𝕆𝔹𝕊𝔼ℝ𝕍𝔼𝕏</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
           <img src="https://opengraph.githubassets.com/1/hackerX-Sam/observeX---realtime-desktop-monitoring-system" width="100%" alt="ObserveX Preview">
@@ -178,10 +178,10 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>𝗘𝗩𝗘𝗡𝗧𝗥𝗔</h3>
+      <h3>𝔼𝕍𝔼ℕ𝕋ℝ𝔸</h3>
       <p align="center">
-        <a href="https://github.com/hackerX-Sam/𝗘𝗩𝗘𝗡𝗧𝗥𝗔-real-time-event-streaming-monitoring-platform-">
-          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/𝗘𝗩𝗘𝗡𝗧𝗥𝗔-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
+        <a href="https://github.com/hackerX-Sam/𝔼𝕍𝔼ℕ𝕋ℝ𝔸-real-time-event-streaming-monitoring-platform-">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/𝔼𝕍𝔼ℕ𝕋ℝ𝔸-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
         </a>
       </p>
       <p align="center">
@@ -193,7 +193,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>𝗦𝗔𝗩𝗬𝗔 𝗣𝗥𝗔𝗝𝗔𝗣𝗔𝗧𝗜</h3>
+      <h3>𝕊𝔸𝕍𝕐𝔸 ℙℝ𝔸𝕁𝔸ℙ𝔸𝕋𝕀</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/savyaprajapati">
           <img src="https://opengraph.githubassets.com/1/hackerX-Sam/savyaprajapati" width="100%" alt="Savya Prajapati Preview">
