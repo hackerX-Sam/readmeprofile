@@ -115,20 +115,15 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 ## `~/` the numbers
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=radical" width="480" alt="GitHub statistics">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=radical" height="165" alt="most used languages">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=radical" height="165" alt="GitHub statistics">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=radical" height="165" alt="most used languages">
+  </a>
+</p>
 
 </div>
 
