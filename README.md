@@ -136,14 +136,11 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🛡️ CyberShieldPro v1.3</h3>
+      <h3>CyberShieldPro v1.3</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
-          <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyhgP/giphy.gif" width="80" alt="Cyber">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/cybershieldpro-v1.3" width="100%" alt="CyberShieldPro Preview">
         </a>
-      </p>
-      <p align="center">
-        An advanced cybersecurity and network protection system designed to detect and mitigate threats.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
@@ -151,14 +148,11 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>👁️ ObserveX</h3>
+      <h3>ObserveX</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
-          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Monitor">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/observeX---realtime-desktop-monitoring-system" width="100%" alt="ObserveX Preview">
         </a>
-      </p>
-      <p align="center">
-        A real-time desktop monitoring and telemetry system for tracking device performance and system activity.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Monitoring-FF4F00?style=flat-square&logo=databricks&logoColor=white" />
@@ -168,14 +162,11 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🌊 Eventra</h3>
+      <h3>Eventra</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
-          <img src="https://media.giphy.com/media/3oKIPnAiaCRIG2nECc/giphy.gif" width="80" alt="Stream">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
         </a>
-      </p>
-      <p align="center">
-        A high-throughput real-time event streaming and monitoring platform built for massive scale.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Streaming-E0234E?style=flat-square&logo=apachekafka&logoColor=white" />
@@ -183,14 +174,11 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>✨ Savya Prajapati</h3>
+      <h3>Savya Prajapati</h3>
       <p align="center">
         <a href="https://github.com/hackerX-Sam/savyaprajapati">
-          <img src="https://media.giphy.com/media/W3r6K1X3sRk39zR60N/giphy.gif" width="80" alt="Portfolio">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/savyaprajapati" width="100%" alt="Savya Prajapati Preview">
         </a>
-      </p>
-      <p align="center">
-        A stunning, interactive personal portfolio and web experience showcasing projects and skills.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
