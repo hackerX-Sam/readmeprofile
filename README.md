@@ -130,7 +130,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=hackerX-Sam&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackerX-Sam&theme=tokyonight&utcOffset=5.5" alt="Productive Time Activity">
 </p>
 
 </div>
