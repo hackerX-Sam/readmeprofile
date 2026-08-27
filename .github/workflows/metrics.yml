@@ -24,7 +24,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           custom_css: |
-            text, .field, .value { font-size: 10px !important; }
-            h1, h2, h3, .header { font-size: 14px !important; }
+            text, .field, .value { font-size: 8px !important; }
+            h1, h2, h3, .header { font-size: 11px !important; }
           output_action: commit
           filename: assets/metrics.isocalendar.svg
