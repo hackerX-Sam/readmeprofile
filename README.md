@@ -21,7 +21,7 @@
 
 ---
 
-## `~/` whoami
+## `~/` who am i
 
 ```console
 $ cat about.txt
