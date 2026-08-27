@@ -116,7 +116,7 @@ Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas in
 
 <!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerX-Sam&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackerX-Sam&theme=tokyonight" alt="GitHub Profile Summary">
 </p>
 
 <p align="center">
